@@ -37,6 +37,8 @@ public class ClaseBaseFinal
 		
 	}
 	
+	//esto es un mensaje del primer commit
+	
 	   //METODO DE NAVEGADOR
     public  static WebDriver chromeDriverConnection() {
        
